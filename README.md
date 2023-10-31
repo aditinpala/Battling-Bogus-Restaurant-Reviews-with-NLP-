@@ -8,7 +8,8 @@ You are going to use the MNB and SVM algorithms to build prediction models to cl
 
 For each of the two classification tasks, try different vectorization options to build the models, and evaluate them using 5-fold cross validation method. Compare the following models’ performance. Report confusion matrix, accuracy, precision, recall, and F-measure.
 
-****Deliverable****
+****Deliverables****
+
 (1)	Your Python script.
 (2)	An executive summary (up to two pages) to describe
 
