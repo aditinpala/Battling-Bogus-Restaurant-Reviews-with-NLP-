@@ -11,6 +11,7 @@ For each of the two classification tasks, try different vectorization options to
 ****Deliverables****
 
 (1)	Your Python script.
+
 (2)	An executive summary (up to two pages) to describe
 
 1. The models you have built and tested, and which one is the best for each task
